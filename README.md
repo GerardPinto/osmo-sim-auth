@@ -17,7 +17,7 @@ Contributions:
 The project is more complete with read all paramters of the SIM card e.g Kc,ISMI,LOCI etc.
 It has been built reading the GSM SIM card specifications and reverse engineering SIM card manager in Layer23 of OsmocomBB application.
 
-Links:
+<h2>Links</h2>:
 1. osmo-sim-auth (Orginal code): http://osmocom.org/projects/osmo-sim-auth/wiki
 2. OsmocomBB: 
 3. GSM SIM card specification:
